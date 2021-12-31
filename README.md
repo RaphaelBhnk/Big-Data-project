@@ -1,7 +1,7 @@
 # Big-Data-project
 
 ## Launch the projet
-- Connect to DataBricks (you should have received an invitation)
+- Connect to DataBricks
 - Launch the .iypnbn from the GitHub repository in your DataBricks environnement
 
 ## Remember !
